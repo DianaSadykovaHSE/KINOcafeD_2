@@ -1,0 +1,88 @@
+[
+    {
+      "id": "1",
+      "title": "Ролл Филадельфия",
+      "vendor_code": "1",
+      "price": 500,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsushifirst.ru%2Fproduct%2Froll-filadelfiya&psig=AOvVaw33dDvf1_hwHtvAz9ZDG6ut&ust=1701896527314000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCT3uGY-YIDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "2",
+      "title": "Ролл Калифорния",
+      "vendor_code": "2",
+      "price": 400,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshengen-delivery.ru%2Fproduct%2Froll-kaliforniya-klassicheskaya%2F&psig=AOvVaw2GYLkR8ienzY-V9fobSb6R&ust=1701896564004000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiHhfOY-YIDFQAAAAAdAAAAABAJ.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Сяке маки",
+      "vendor_code": "3",
+      "price": 250,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwasabi22.ru%2Fproduct%2F%25D1%2581%25D1%258F%25D0%25BA%25D0%25B5-%25D0%25BC%25D0%25B0%25D0%25BA%25D0%25B8-150%25D0%25B3%25D1%2580%2F&psig=AOvVaw2xd2MFoPmT9HlxRwo4tqk9&ust=1701896594872000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDv54GZ-YIDFQAAAAAdAAAAABAE.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Запеченный с угрём",
+      "vendor_code": "4",
+      "price": 350,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Famigos51.ru%2Fmenu%2Fsyshi_rolli%2Fzapechennii_roll_s_ygrem&psig=AOvVaw0qrKBdnXiXFxfYDaJUR4oD&ust=1701896664972000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiblaOZ-YIDFQAAAAAdAAAAABAE.jpg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Пицца Маргарита",
+      "vendor_code": "5",
+      "price": 300,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flamajo-pizza.ru%2Fpizza%2Fpicca-margarita&psig=AOvVaw1yqL_01zYWqAq_C_J5VHpk&ust=1701896791252000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCuuN-Z-YIDFQAAAAAdAAAAABAR.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Пицца Пепперони",
+      "vendor_code": "6",
+      "price": 450,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+    },
+    {
+      "id": "7",
+      "title": "Пицца 4 сыра",
+      "vendor_code": "7",
+      "price": 400,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+    },
+    {
+      "id": "8",
+      "title": "Паста Карбонара",
+      "vendor_code": "8",
+      "price": 350,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_3.png"
+    },
+    {
+      "id": "9",
+      "title": "Паста Альфредо",
+      "vendor_code": "9",
+      "price": 300,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+    }
+    ,
+    {
+      "id": "10",
+      "title": "Паста с морепродуктами",
+      "vendor_code": "10",
+      "price": 500,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_5.png"
+    },
+    {
+      "id": "11",
+      "title": "Картофель фри",
+      "vendor_code": "11",
+      "price": 200,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
+    },
+    {
+        "id": "12",
+        "title": "Сырные палочки (4 шт.)",
+        "vendor_code": "12",
+        "price": 200,
+        "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
+    }
+  ]
