@@ -134,3 +134,6 @@ h3>a {
 .card-body{
     display: flex;
 }
+.Container{
+    display: flex;
+}
