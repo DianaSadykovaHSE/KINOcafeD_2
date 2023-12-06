@@ -127,13 +127,11 @@ h3>a {
 }
 .Cinema {
     margin: 50px;
+    display: flex;
 }
 .png_stars {
     width: 400px;
 }
 .card-body{
-    display: flex;
-}
-.container{
     display: flex;
 }
