@@ -13,8 +13,8 @@
     color: rgb(3, 3, 3);
     font-size: large ;
     font-weight:bold;
-    margin-left: 33px;
-    margin-right: 33px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 0px;
     padding-bottom: 10px;
     
@@ -135,4 +135,31 @@ h3>a {
 }
 .card-body{
     display: flex;
+}
+.cards {
+    display: inline-block;
+}
+.Food {
+    display: inline-block;
+}
+.nav-btn {
+    display: none;
+}
+@media (max-width: 1000px) {
+.nav-btn {
+    background-color: rgb(240, 118, 196);
+    border: 0px;
+    display: block;
+}
+.Main_nav {
+    display: none;
+}
+.drop:hover .Main_nav {
+    display: block;
+    position: absolute;
+    background-color: rgb(240, 118, 196);
+}
+}
+.png_0 {
+    width: 80px;
 }
